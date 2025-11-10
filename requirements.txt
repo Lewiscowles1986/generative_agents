@@ -31,7 +31,7 @@ numpy==1.25.2
 openai==0.27.0
 outcome==1.2.0
 packaging==23.0
-pandas==2.0.3
+pandas==2.3.3
 patsy==0.5.3
 Pillow==8.4.0
 psycopg2-binary==2.9.5
