@@ -27,7 +27,7 @@ kiwisolver==1.4.4
 matplotlib==3.7.2
 multidict==6.0.4
 nltk==3.6.5
-numpy==1.25.2
+numpy==1.26.4
 openai==0.27.0
 outcome==1.2.0
 packaging==23.0
