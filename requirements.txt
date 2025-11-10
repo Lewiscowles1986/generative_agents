@@ -35,7 +35,7 @@ pandas==2.0.3
 patsy==0.5.3
 Pillow==8.4.0
 psycopg2-binary==2.9.11
-pycparser==2.21
+pycparser==2.23
 pyparsing==3.0.6
 PySocks==1.7.1
 python-dateutil==2.8.2
